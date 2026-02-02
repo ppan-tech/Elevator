@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186548775248",
+    "project_id": "elevatortracker",
+    "storage_bucket": "elevatortracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186548775248:android:496392519b48b239c5a455",
+        "android_client_info": {
+          "package_name": "com.pants.elevator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqAP4lX0Dk0XN5BifpVHNNttuU3zWNsCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
